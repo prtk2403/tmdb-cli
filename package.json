@@ -1,0 +1,20 @@
+{
+  "name": "tmdb-cli",
+  "version": "1.0.0",
+  "description": "CLI tool for fetching movie information from TMDB",
+  "main": "src/index.js",
+  "bin": {
+    "tmdb-app": "./src/index.js"
+  },
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "keywords": ["tmdb", "cli", "movies"],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.6.0",
+    "commander": "^11.0.0",
+    "dotenv": "^16.0.0"
+  }
+}
