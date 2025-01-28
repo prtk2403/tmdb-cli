@@ -24,7 +24,7 @@ A command-line interface tool that fetches and displays movie information from T
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/tmdb-cli.git
+git clone https://github.com/prtk2403/tmdb-cli.git
 cd tmdb-cli
 ```
 
@@ -105,24 +105,6 @@ tmdb-cli/
 └── README.md
 ```
 
-## Development
-
-To contribute to this project:
-
-1. Fork the repository
-2. Create a new branch for your feature
-3. Make your changes
-4. Submit a pull request
-
-## Debugging
-
-The application logs errors to help with debugging. If you encounter issues:
-
-1. Check the error message displayed in the console
-2. Verify your API key and internet connection
-3. Ensure you're using the correct command syntax
-4. Check for any console logs or error messages
-
 ## Dependencies
 
 - `axios` - HTTP client for API requests
@@ -138,12 +120,6 @@ This project is licensed under the ISC License.
 - [TMDB API](https://developer.themoviedb.org/docs) for providing the movie data
 - The Node.js community for the excellent packages used in this project
 
-## Support
-
-If you encounter any issues or have questions, please:
-1. Check the existing issues in the repository
-2. Create a new issue if your problem isn't already reported
-3. Provide as much detail as possible about your environment and the problem
 
 ---
 
